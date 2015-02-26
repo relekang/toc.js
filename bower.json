@@ -1,0 +1,21 @@
+{
+  "name": "toc.js",
+  "main": "toc.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/relekang/toc.js",
+  "authors": [
+    "Rolf Erik Lekang <me@rolflekang.com>"
+  ],
+  "description": "Tool for automatically generate a table of contents on a web page",
+  "keywords": [
+    "toc"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
